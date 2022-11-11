@@ -33,3 +33,12 @@
 Санкт-Петербург 2022
 
 ![fstscr](C:/Users/chetv/source/repos/ChetvergovVsewolod4116/LR6/GitLaba/screen1.jpg)
+![fstscr](C:/Users/chetv/source/repos/ChetvergovVsewolod4116/LR6/GitLaba/screen2.jpg)
+![fstscr](C:/Users/chetv/source/repos/ChetvergovVsewolod4116/LR6/GitLaba/screen3.jpg)
+
+
+конфликт слияния:
+![fstscr](C:/Users/chetv/source/repos/ChetvergovVsewolod4116/LR6/GitLaba/newscreen1.jpg)
+
+решение конфликта вручную:
+![fstscr](C:/Users/chetv/source/repos/ChetvergovVsewolod4116/LR6/GitLaba/newscreen2.jpg)
