@@ -31,3 +31,5 @@
 ||||подпись, дата||инициалы, фамилия|
 
 Санкт-Петербург 2022
+
+![fstscr](C:/Users/chetv/source/repos/ChetvergovVsewolod4116/LR6/GitLaba/screen1.jpg)
